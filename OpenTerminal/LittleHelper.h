@@ -12,6 +12,5 @@
 @interface LittleHelper : NSObject
 
 + (NSString *)projectPath;
-//+ (void)updateToolbarsFromPreferences;
 
 @end
