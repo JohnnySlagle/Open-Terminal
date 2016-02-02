@@ -37,7 +37,8 @@ class OpenTerminal: NSObject {
         }
 
         // Setup Button?
-//        LittleHelper.updateToolbarsFromPreferences()
+        // Note: I want to add a button to the toolbar, however, it is disabled for now becasue it seems like Xcode 7 may have borked this.
+        // LittleHelper.updateToolbarsFromPreferences()
     }
     
     // MARK:- Open Terminal
