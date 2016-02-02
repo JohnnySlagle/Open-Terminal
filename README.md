@@ -1,6 +1,9 @@
 ##Open in Terminal
 
-Xcode plugin to quickly open project directory in Terminal. Very simple to use:
+Xcode plugin to quickly open project directory in Terminal. It is very easy to use. Either access it through the menu bar:
 
-1. File > Open in Terminal
-2. **⌃ + ⌥ + ⌘ + T** *(Command + Option + Control + T)*
+* File > Open in Terminal
+
+Or with a keyboard shortcut: 
+
+* **⌃ + ⌥ + ⌘ + T** *(Command + Option + Control + T)*
